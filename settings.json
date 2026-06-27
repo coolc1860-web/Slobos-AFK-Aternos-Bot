@@ -11,6 +11,8 @@
     "version": "1.21.11",
     "try-creative": false,
     "checkTimeoutInterval": 0
+    "skipValidation": true,
+    "fakeHost": false,
   },
   "position": {
     "enabled": true,
