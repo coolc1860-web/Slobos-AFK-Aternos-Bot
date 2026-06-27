@@ -9,7 +9,7 @@
     "ip": "Speedy281053.aternos.me",
     "port": 25565,
     "version": "1.21.11",
-    "try-creative": false
+    "try-creative": false,
     "checkTimeoutInterval": 0
   },
   "position": {
