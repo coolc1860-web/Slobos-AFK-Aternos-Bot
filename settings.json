@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Speedy281053.aternos.me",
+    "ip": "tenuis.aternos.host",
     "port": 43407,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
