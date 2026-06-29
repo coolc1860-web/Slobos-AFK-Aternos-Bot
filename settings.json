@@ -10,9 +10,9 @@
     "port": 25565,
     "version": "1.21.11",
     "try-creative": false,
-    "checkTimeoutInterval": 0
-    "skipValidation": true,
     "fakeHost": false,
+    "skipValidation": true,
+    "checkTimeoutInterval": 0
   },
   "position": {
     "enabled": true,
